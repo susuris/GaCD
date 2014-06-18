@@ -1,0 +1,1 @@
+## This repo contains course project for course 'Getting and cleaning data'
